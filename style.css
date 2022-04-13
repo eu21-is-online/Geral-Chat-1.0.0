@@ -1,0 +1,38 @@
+/* menus */
+.menu{
+    background-color: #a09f9f;
+    border-radius: 5px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+ul{
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+    padding: 16px;
+}
+ion-icon{
+    width: 30px;
+    height:30px;
+    color:#cacaca;
+}
+/* todos */
+body{
+    font-family: 'Segoe UI';
+}
+.favicon{
+    border-radius: 50%;
+}
+.userimg{
+    width: 40px;
+    border-radius: 50%;
+}
+.pessoas{
+    background-color: black;
+    color: white;
+}
+.user{
+    background-color: rgb(80, 80, 80);
+    position: absolute;
+    width: 160px;
+}
